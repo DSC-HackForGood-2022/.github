@@ -10,10 +10,11 @@ We have identified two critical problems and provided proposed solutions below. 
 
 Secondly, employers should have the choice to conduct "blind interviews" to not be affected by their own unconscious bias that could affect their hiring process. The _Telegram Bot_ **AnonymizeIt** addresses this issue by allowing two parties to communicate completely anonymously and privately. 
 
+## NeutralizeIt
+- [User Guide and Demo](https://dsc-hackforgood-2022.github.io/NeutralizeIt/)
+- [Repository and Installation](https://github.com/DSC-HackForGood-2022/NeutralizeIt)
+
 ## AnonymizeIt
 - [User Guide and Demo](https://dsc-hackforgood-2022.github.io/AnonymizeIt/)
 - [Repository and Installation](https://github.com/DSC-HackForGood-2022/AnonymizeIt)
 
-## NeutralizeIt
-- [User Guide and Demo](https://dsc-hackforgood-2022.github.io/NeutralizeIt/)
-- [Repository and Installation](https://github.com/DSC-HackForGood-2022/NeutralizeIt)
