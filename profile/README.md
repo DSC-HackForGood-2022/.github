@@ -19,18 +19,6 @@ _How can we get employers to be open and hire women who have less social mobilit
 
 - Employers should have the choice to conduct "blind interviews" to reduce their own unconscious biases that could affect the hiring process. The Telegram Bot **AnonymizeIt** addresses this issue by allowing two parties to communicate completely anonymously and privately. AnonoymizeIt is a telegram bot that acts as a third party between an interviewer and interviewee
 
-### Challenges
-- Recursively parsing through elements in an HTML dom to effectively edit HTML without destroying the already established structure. 
-- Generating word bank of gendered words with accurate and neutral replacements
-
-### What We Learned
-- jQuery
-- How to make a Telegram bot
-- How to make a Google Chrome Extension
-
-### Potential Improvements
-- Expand word bank for NeutralizeIt to include more gendered words and variations
-- Implement a management system for AnonymizeIt for recruiters to communicate with multiple applicants at the same time
 
 ## NeutralizeIt
 - [User Guide and Demo](https://dsc-hackforgood-2022.github.io/NeutralizeIt/)
